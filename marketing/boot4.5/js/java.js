@@ -15,10 +15,10 @@ window.onload = function(){
             slidesPerView: 2
           }
         },
-          // autoplay: {
-          //   delay: 3000,
-          //   disableOnInteraction: false,
-          // },
+          autoplay: {
+            delay: 3000,
+            disableOnInteraction: false,
+          },
           loop : true, 
           spaceBetween: 30,
           slidesPerView: 1,
